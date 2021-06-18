@@ -1,0 +1,2 @@
+C:\Users\Cruz\source\repos\proyectazo\x64\Debug\proyectazo.exe
+C:\Users\Cruz\source\repos\proyectazo\x64\Debug\proyectazo.pdb
